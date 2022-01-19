@@ -1,4 +1,4 @@
-🍦🍫🍭
+🍒🍦🍫🍭
 -
 </div>
   <img align = "right" alt = "pic" height = "150" style = "border-radius: 50px;" src = "https://media.giphy.com/media/jx6QUPGpCUXgsMUyMU/giphy.gif">
