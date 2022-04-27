@@ -1,8 +1,5 @@
 🍦🍫🍭
 -
-</div>
-  <img align = "right" alt = "pic" height = "150" style = "border-radius: 50px;" src = "https://media.giphy.com/media/jx6QUPGpCUXgsMUyMU/giphy.gif">
-</div>
 
 <div> 
   <a href="https://www.instagram.com/jay_hallucigenia/" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target =" _ blank "> </a>
